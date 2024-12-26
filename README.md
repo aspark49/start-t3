@@ -1,5 +1,5 @@
 # t3-app `yarn dev`까지 가이드
-- 링크 : [https://velog.io/@aspark49/create-t3-applatest](https://velog.io/@aspark49/create-t3-applatest)
+- 링크 : [https://velog.io/@aspark49/create-t3-applatest](https://velog.io/@aspark49/create-t3-applatest) 
 
 # Create T3 App
 
